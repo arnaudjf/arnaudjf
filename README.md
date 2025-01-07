@@ -1,32 +1,15 @@
-## Hi there 👋
-
-<!--
-**arnaudjf/arnaudjf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hello and Welcome! 👋
 
-Greetings! I'm Arnaud, a data enthusiast with a passion for exploring, analyzing, and visualizing data. Here you can find a collection of my projects, contributions, and areas of interest.
+Greetings! I'm Arnaud, a data enthusiast with a passion for exploring, analyzing, and visualizing data. Here you can find a collection of my projects, contributions, and areas of interest.   
 
 ## About Me
 
-🌍 **Location:** Barcelona
-💼 **Current Role:** BI Tech Lead & Data Scientist Junior at Megamedia (Grupo Mediaset España)
-🎓 **Education:** Master in Management from UPS Toulouse 3
-🌱 **Currently Exploring:** Machine Learning, Big Data Technologies, Python
-💬 **Let's Talk About:** Data Analysis, Languages, Predictive Modeling, Data Engineering
-📫 **Reach Me At:** [https://www.linkedin.com/in/arnaud-guillemin-bi/]
+🌍 **Location:** Barcelona   
+💼 **Current Role:** BI Tech Lead & Data Scientist Junior at Megamedia (Grupo Mediaset España)   
+🎓 **Education:** Master in Management from UPS Toulouse 3   
+🌱 **Currently Exploring:** Machine Learning, Big Data Technologies, Python   
+💬 **Let's Talk About:** Data Analysis, Languages, Predictive Modeling, Data Engineering    
+📫 **Reach Me At:** [https://www.linkedin.com/in/arnaud-guillemin-bi/]   
 
 ## Skills & Tools
 
@@ -35,7 +18,7 @@ Greetings! I'm Arnaud, a data enthusiast with a passion for exploring, analyzing
 **Machine Learning:** Scikit-Learn, WIP...
 
 
-
+<!--
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnaudjf&show_icons=true&theme=default)
@@ -80,3 +63,4 @@ Greetings! I'm Arnaud, a data enthusiast with a passion for exploring, analyzing
 - [Personal Website](https://www.yourwebsite.com)
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate on any data project.
+-->
